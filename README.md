@@ -1,4 +1,4 @@
 # btc-jsonrpc-go
 
-JSON-RPC for Bitcoin
+simple JSON-RPC for Bitcoin
 
