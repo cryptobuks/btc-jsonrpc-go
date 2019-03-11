@@ -1,6 +1,6 @@
 package btcrpc
 
-// Block ...
+// Block chainBlock json结构
 type Block struct {
 	Hash          string   `json:"hash"`
 	Version       int32    `json:"version"`
